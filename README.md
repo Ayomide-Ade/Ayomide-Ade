@@ -62,6 +62,6 @@ I'm open to:
 
 ---
 
-📧 **Contact:** [Email](ayoa88463@gmail.com)  
+📧 **Email:** [ayallen1@gmail.com](mailto:ayallen1@gmail.com)  
 🔗 **GitHub:** [@Ayallen1](https://github.com/Ayallen1)  
-💼 **LinkedIn:** [LinkedIn](www.linkedin.com/in/adesina-ayomide-482a27312)
+💼 **LinkedIn:** [Adesina Ayomide](www.linkedin.com/in/adesina-ayomide-482a27312)
