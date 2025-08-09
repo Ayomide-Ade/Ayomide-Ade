@@ -27,8 +27,3 @@ I'm open to:
 > *"Working toward greatness — one line of code at a time."*  
 > **Ayallen1 out.**
 
----
-
-📧 **Email:** [ayallen1@gmail.com](mailto:ayallen1@gmail.com)  
-🔗 **GitHub:** [@Ayallen1](https://github.com/Ayomide-Ade)  
-💼 **LinkedIn:** [Adesina Ayomide](www.linkedin.com/in/adesina-ayomide-482a27312)
