@@ -7,45 +7,12 @@
 
 ---
 
-## 🧾 Professional Statement
-
-Passionate Computer Science student at **Babcock University** with a strong foundation in programming and a clear path toward **cybersecurity excellence**.
-
-I specialize in building **secure web applications** while developing expertise in **threat detection** and **vulnerability assessment**. My programming skills in **C, C++, and web technologies** provide a solid foundation for understanding system-level security and secure coding practices.
-
-### 🔑 Key Areas of Interest:
-- 🔍 Threat detection and analysis  
-- 🛡️ Secure application development  
-- 📋 Compliance and security standards  
-- 🎯 Ethical hacking and penetration testing
-
----
-
-## 🚀 Technical Skills
-
-- **Languages:** C, C++, JavaScript, HTML, CSS  
-- **Web Tech:** DOM manipulation, Responsive design, LocalStorage API  
-- **Security Focus:** Secure coding practices, vulnerability identification  
-- **Tools & Concepts:** Git, JSON, API integration, data persistence
-
----
-
 ## 🚧 Current Projects & Learning
 
 - 🌐 Building secure web applications with modern JavaScript  
 - 🔐 Practicing ethical hacking fundamentals and penetration testing  
 - 📚 Studying cybersecurity frameworks and compliance standards  
 - 🤝 Collaborating on academic and independent tech challenges
-
----
-
-## 🎯 Career Goals
-
-**Short-term:**  
-Enhance technical skills through hands-on projects and internships
-
-**Long-term:**  
-Become a **Cybersecurity Analyst** specializing in **threat detection** and **secure system design**
 
 ---
 
